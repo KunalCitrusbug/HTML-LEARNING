@@ -1,0 +1,9 @@
+.nav_row{
+    display: flex;
+}
+.nav_content{
+    margin-left: 340px;
+    margin-right: 340px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
